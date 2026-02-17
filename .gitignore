@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build
+.next/
+out/
+
+# Env
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# IDE
+.vercel
+*.tsbuildinfo
